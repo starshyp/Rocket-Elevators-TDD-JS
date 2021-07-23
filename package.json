@@ -1,0 +1,17 @@
+{
+  "name": "Rocket-Elevators-TDD-JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:starshyp/Rocket-Elevators-TDD-JS.git",
+  "author": "CB <>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
